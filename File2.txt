@@ -1,3 +1,6 @@
-To fix the bug
 
-Change fro WI4 by temmate for rebase with conflict
+1. To fix the bug
+
+2. Change fro WI4 by temmate for rebase with conflict
+
+3. change for rebase on CR2
