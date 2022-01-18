@@ -4,3 +4,5 @@
 2. Change fro WI4 by temmate for rebase with conflict
 
 3. change for rebase on CR2
+
+4. change on remote master by team mate for CR1 fro pull operation
